@@ -2,8 +2,6 @@
 Dashboards, Maps and Questions Answers About What's The Best House to Sell.
 
 
-# Projeto_Insight_House_Rocket
-link de acesso ao app: https://cs-insight-house-rocket.herokuapp.com/
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/94291995/162749175-a9684819-0105-4afb-b4de-12dec1693221.png" />
